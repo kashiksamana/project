@@ -1,0 +1,152 @@
+body{
+    text-align: center;
+    margin: 0ex;
+    
+}
+header{
+background-color: lawngreen;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  
+}
+.profile-image{
+    padding-top: 50px;
+    width: 100px;
+    height: 100px;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    
+    color: red;
+
+}
+.bottom-cloud{
+    position: absolute;
+    left: 40px;
+    padding-bottom: 10px;
+ 
+}
+.top-container{
+    background-color: azure;
+    position: relative;
+    padding: 100px
+    
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: blue;
+    border-width: 10px;
+    width: 5%;
+    margin: 100px auto;
+}
+   
+   .puzzle{
+       width: auto;
+       height: 80px;
+       float: left;
+       
+   }
+   .name{
+       padding-top: 100px;
+
+   }
+   .reasoning{
+      width: 50px;
+      height: 50px;
+      float: right;
+      margin-left: 10px;
+   }
+
+   .para{
+       position: absolute;
+       left: 557px;
+       font-size: 20px;
+       width: 20%;
+   }
+   .skill3{
+       margin-top: 200px;
+   }
+   .Quiz{
+      float: left;
+       width: 58px;
+       height: 57px;
+   }
+   .skill-row{
+       width: 50%;
+       margin: 100px auto;
+       text-align: center;
+   }
+   h3{
+      text-align: center;
+      margin-left: 20px;
+      color: hotpink;
+   }
+  p{
+      text-align: center;
+      color: rgb(238, 10, 48);
+      font-size: 30px;
+  }
+  .myButton{
+      margin-top: 50px;
+      margin-bottom: 50px;
+  }
+      .myButton {
+        box-shadow: 1px 2px 1px 4px #9fb4f2;
+        background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+        background-color:#7892c2;
+        border-radius:32px;
+        border:2px solid #4e6096;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:20px;
+        padding:9px 10px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #283966;
+    }
+    .myButton:hover {
+        background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+        background-color:#476e9e;
+    }
+    .myButton:active {
+        position:relative;
+        top:1px;
+    }
+    
+    
+h2{
+    color: lawngreen;
+}
+.last-section{
+    background-color: darkcyan;
+}
+.social{
+    float: left;
+    margin-left:  300px;
+ font-style: inherit;
+ font-size: 25px;
+ text-decoration: none;
+
+}
+.copyright{
+    margin-top: 68px;
+    margin-right: -24px;
+}
+footer{
+    font-style: var(#4e6096);
+    padding-top: 50px;
+    padding-bottom: 60px;
+    background-color: darkorange;
+    color: darkgreen;
+}
+section{
+    background-color: darkturquoise;
+}
